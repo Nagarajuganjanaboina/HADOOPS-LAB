@@ -1,4 +1,3 @@
-
 Arbitrarily choose k objects in D as the initial representative objects or seeds;
 Repeat
 Assign each remaining object to the cluster with the nearest representative object;
